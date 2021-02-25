@@ -1,0 +1,2 @@
+# EasyEthMiner
+Easy Eth Miner
